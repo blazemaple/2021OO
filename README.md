@@ -17,3 +17,12 @@ It is a `test`!
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
+
+|Name |Quantity|
+|-----|--------|
+|Apple|3       |
+|Egg  |12      |
+
+```
+print('Hello World!')
+```
